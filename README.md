@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Churn Prediction API
  
 This project predicts whether a telecom customer is likely to leave the
@@ -11,3 +12,6 @@ uvicorn app:app --reload
 ## API
 - GET  /         health check
 - POST /predict  returns a churn prediction for a JSON customer record
+=======
+# car-price-api
+>>>>>>> 9667df8bf94673dedb23397c9172935be4c35645
